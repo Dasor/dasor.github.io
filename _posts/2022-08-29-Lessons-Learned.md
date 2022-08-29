@@ -1,7 +1,7 @@
 ---
 layout: single
 title: What I've learned in 3 months of hacking
-excerpt: "In this article I will share my experience of learning some hacking during my 3 months of summer vacation an criticly analyze if I took the right path. Then I will try and give my best advice."
+excerpt: "In this article I will share my experience of learning some hacking during my 3 months of summer vacation and criticly analyze if I took the right path. Then I will try and give my best advice."
 date: 2022-08-29
 classes: wide
 header:
