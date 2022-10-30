@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Photobomb tryhackme writeup
+title: Photobomb hackthebox writeup
 excerpt: "Easy linux machine in which we find exposed credentials, exploit a RCE and privilege escalate with PATH manipulation"
 date: 2022-10-30
 classes: wide
