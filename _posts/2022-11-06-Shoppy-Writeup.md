@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Shoppy hackthebox writeup
-excerpt: "Easy linux machine in which inject NoSQL code, crack a password, reverse engineer a binary and escalate through docker"
+excerpt: "Easy linux machine in which we inject NoSQL code, crack a password, reverse engineer a binary and escalate through docker"
 date: 2022-11-06
 classes: wide
 header:
