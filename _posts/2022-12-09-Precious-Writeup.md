@@ -74,7 +74,7 @@ ruby@precious:/var/www/pdfapp$ stty rows 30 columns 132
 ruby@precious:/var/www/pdfapp$
 ```
 
-Although we can't yet get the user flag since we are the user ruby. However, one thing experience solving ctf's has taught me is to look at the home directory and look for non-usual folders (for instance this also applies to the last machine [metatwo](./2022-12-05-Metatwo-Writeup.md)). In this case, we have a .bundle folder, bundle is a ruby-related application (actually the one my blog uses), So out of curiosity, I checked the folder and ... found plaintext credentials!.
+Although we can't yet get the user flag since we are the user ruby. However, one thing experience solving ctf's has taught me is to look at the home directory and look for non-usual folders (for instance this also applies to the last machine [metatwo](../Metatwo-Writeup). In this case, we have a .bundle folder, bundle is a ruby-related application (actually the one my blog uses), So out of curiosity, I checked the folder and ... found plaintext credentials!.
 
 ```shell
 ruby@precious:/var/www/pdfapp$ cd
