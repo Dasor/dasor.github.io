@@ -121,6 +121,13 @@
         </li>
       {% endif %}
 
+      {% if author.monero %}
+        <li>
+            <i class="fab fa-fw fa-monero" aria-hidden="true"></i> {{ author.monero }}
+        </li>
+      {% endif %}
+
+
       {% if author.xing %}
         <li>
           <a href="https://www.xing.com/profile/{{ author.xing }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
